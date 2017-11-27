@@ -9,3 +9,6 @@ testcommit
 2nd commit in dev branch
 
 master commit task2
+
+
+master changes to test rebasing
