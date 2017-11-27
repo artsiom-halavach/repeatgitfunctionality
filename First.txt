@@ -11,4 +11,4 @@ testcommit
 master commit task2
 
 
-comment to rebase
+comment to rebase-some to com
